@@ -45,7 +45,8 @@ h3{
 	text-decoration: none;
 	margin-left: 30px;
 	color: #11999E;
-	font-size: 20px;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
 }
 .navlink:hover{
 	color: black;
@@ -106,6 +107,14 @@ h3{
      color: #11999E;
      margin:30px;
      
+}
+.project-link{
+	text-decoration: none;
+     color: #11999E;
+     margin: 10% auto;
+}
+.project-link:hover{
+	color: black;
 }
 a:hover{
 	color: #EAF6F6;
